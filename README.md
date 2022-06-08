@@ -1,2 +1,6 @@
 # Vercel React Typescript Template
-Will Hamilton
+
+## Setup
+`npm install`
+`vercel`
+`vercel dev`
